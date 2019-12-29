@@ -2,5 +2,5 @@
  Exploring the basics of Rust
  
  - Commands
-  - Build: cargo build
-  - Run: cargo run
+   - Build: cargo build
+   - Run: cargo run
